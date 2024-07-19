@@ -1,0 +1,23 @@
+.p {
+  background-color: rgb(252, 4, 157);
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.adjust-font-size {
+  font-size: 24px;
+}
+
+#div {
+  color: blue;
+  font-size: 36px;
+}
+
+.p2 {
+  background-color: rgb(252, 4, 157);
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#div2 {
+  background-color: rgb(102, 255, 0);
+  font-weight: 700;
+}
